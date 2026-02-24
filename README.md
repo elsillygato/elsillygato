@@ -1,12 +1,11 @@
 ![banner](https://i.imgur.com/GRWLDBt.png)
 # Heya
 
-## Things I'm working on:
-* Bullet Dodging Game
-     * [ ] Rocket Bullets
-* Python stuff
 ## About Me
 * :snake: Knowledgable in Python
-* ©️ Kinda sucks at C++
-* 💻 Mildly knowledgeable in HTML/CSS
-   * 🫤 Somewhat knowledgeable in JS
+* 💻 Knowledgable in HTML, CSS, and Javascript
+* ⚛️ Working on React skills at the moment
+
+## Current Projects
+* ~~AFC~~ ASC Adventures (AFC Adventures III)
+* Jammmify (Codecademy Practice Project) (Coming soon?)
